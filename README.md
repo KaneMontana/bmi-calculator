@@ -5,6 +5,7 @@
 <img width="100" height="100" alt="image" src="https://play-lh.googleusercontent.com/w-3aioMGj1H_TREp2vDNDhn6P5x2zND7dKB0MRv_X8vvYho4A3dlyWEoGbdY4p27CoY" />
 
 `Команада разработки: ` Гладышев Егор 
+
 `Дата начала работы: ` 01.03.2026  
 `Дата завершения работы: ` 15.03.2026  
 
